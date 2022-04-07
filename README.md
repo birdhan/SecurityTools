@@ -132,11 +132,40 @@
 
 - [ J2EEScan ](https://github.com/ilmila/J2EEScan) - burpsuit插件，J2EE扫描插件，识别J2EE指纹和CVE漏洞检测。
 
-#### 木马
 
+#### 数据库漏洞扫描器|SQL注入
 
+- [ sqlmap ](https://github.com/sqlmapproject/sqlmap) - 注入工具之王sqlmap。
 
-#### 字典
+- [ SQLiScanner ](https://github.com/0xbug/SQLiScanner) - 一款基于SQLMAP和Charles的被动SQL注入漏洞扫描工具。
+
+- [ DSSS ](https://github.com/stamparm/DSSS) - 99行代码实现的sql注入漏洞扫描器。
+
+- [ NoSQLAttack ](https://github.com/youngyangyang04/NoSQLAttack) - 可以自动利用 Internet 上的 MongoDB 服务器 IP，并通过 MongoDB 默认配置漏洞和注入攻击泄露数据库数据。
+
+- [ PowerUpSQL ](https://github.com/NetSPI/PowerUpSQL) - 内部渗透测试，支持 SQL Server 发现、弱配置审计、大规模特权升级以及诸如操作系统命令执行等利用后操作的功能的PowerShell 工具包。
+
+- [ jsql-injection ](https://github.com/ron190/jsql-injection) - Java 编写的SQL注入工具，Kali已集成。
+
+#### 子域名枚举/爆破工具
+
+- [ N4xD0rk ](https://github.com/n4xh4ck5/N4xD0rk) - 使用名为 Hacking with search engine 的技术列出有关主域的子域。
+
+- [ Anubis ](https://github.com/jonluca/Anubis) - Anubis 是一个子域枚举和信息收集工具。
+
+- [ subDomainsBrute ](https://github.com/lijiejie/subDomainsBrute) - 一个用于渗透测试者的快速子域暴力工具,使用广泛的子域名爆破枚举工具。
+
+- [ wydomain ](https://github.com/ring04h/wydomain) - 子域名爆破枚举工具。
+
+- [ subbrute ](https://github.com/TheRook/subbrute) - 使用开放解析器作为一种代理来规避 DNS 速率限制,同时也是扫描器中最常用的子域名API库。
+
+- [ GSDF ](https://github.com/We5ter/GSDF ) - 基于谷歌SSL透明证书的子域名查询脚本。
+
+#### 弱口令爆破工具
+
+- [ x-crack ](https://github.com/netxfly/x-crack) - x-crack - 弱密码扫描器，支持：FTP/SSH/SNMP/MSSQL/MYSQL/PostGreSQL/REDIS/ElasticSearch/MONGODB。
+
+- [ cupp ](https://github.com/Mebus/cupp) - 根据用户习惯生成弱口令探测字典脚本。
 
 - [ SuperWordlist ](https://github.com/fuzz-security/SuperWordlist) - 各种弱口令字典。
 
@@ -157,9 +186,13 @@
 - [ nps ](https://github.com/ehang-io/nps) - 内网穿透代理服务器。
 
 
-#### 后渗透
+#### 内网渗透或扫描工具
 
 - [ fscan ](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
+
+- [ LaZagne ](https://github.com/AlessandroZ/LaZagne) - 用于检索存储在本地计算机上的大量密码。支持浏览器、数据库、邮件等程序。
+
+- [ mimipenguin ](https://github.com/huntergregal/mimipenguin) - linux密码抓取神器。
 
 #### fuzz工具收集
 
