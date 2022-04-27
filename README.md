@@ -10,6 +10,20 @@
 
 - [ Savior ](https://github.com/Mustard404/Savior) - 渗透测试报告自动生成工具！.
 
+
+#### 信息收集
+
+- [ sub3suite ](https://github.com/3nock/sub3suite) - 跨平台的情报收集工具，子域名枚举、OSINT 信息收集和攻击面映射的研究级工具套件。
+
+#### 漏洞扫描器
+
+- [ pocsuite3 ](https://github.com/knownsec/pocsuite3) - pocsuite3 是由 Knownsec 404 团队开发的开源远程漏洞测试框架。
+
+- [ w13scan ](https://github.com/w-digital-scanner/w13scan) - 它支持主动扫描模式和被动扫描模式。
+
+- [ myscan ](https://github.com/amcai/myscan) - 由python3开发而成的被动扫描工具。 
+
+
 #### 漏洞利用框架
 
 - [ hackUtils ](https://github.com/brianwrf/hackUtils) - 它是一个用于渗透测试和网络安全研究的黑客工具包，渗透以及web攻击脚本。
@@ -17,8 +31,6 @@
 - [ msf框架：](https://github.com/rapid7/metasploit-framework)
 
 - [ pocsscan攻击框架](https://github.com/erevus-cn/pocscan)
-
-- [ Pocsuite攻击框架](https://github.com/knownsec/Pocsuite)
 
 - [ Beebeeto攻击框架](https://github.com/n0tr00t/Beebeeto-framework)
 
