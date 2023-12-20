@@ -1,17 +1,26 @@
 
-### 项目介绍
-记录渗透测试开源工具。
+### 项目介绍（攻击视角）
+
+搜集大量网络安全行业开源项目，旨在提供安全测试工具，提升渗透测试效率。
+
+**项目收集的思路：**
+
+一个是以攻击/漏洞视角出发的开源项目，经网络安全爱好者实践总结出的经验。
+
+一个是从渗透测试流程出发，沿着信息收集到内网渗透的思路，总结出漏洞扫描、漏洞利用、后/域渗透等。
+
+这个收集是一个长期的过程，我在GitHub创建了这个项目，专门用来收集一些优秀的渗透测试项目。还有很多很好的免费开源项目可供选择，下面列出的还只是其中很少的一部分，我将**持续更新**这个项目，欢迎Star。
 
 
-#### 自动化渗透测试
-- [ AttackSurfaceMapper ](https://github.com/superhedgy/AttackSurfaceMapper)    - 自动化渗透测试工具,[使用手册/测试流程](https://www.uedbox.com/post/59110/)。 
+##### 自动化渗透测试
+
+- [ AttackSurfaceMapper ](https://github.com/superhedgy/AttackSurfaceMapper) - 自动化渗透测试工具,[使用手册/测试流程](https://www.uedbox.com/post/59110/)。 
 
 - [ vajra ](https://github.com/r3curs1v3-pr0xy/vajra) - 自动化渗透测试.
 
 - [ Savior ](https://github.com/Mustard404/Savior) - 渗透测试报告自动生成工具！.
 
-
-#### 信息收集
+##### 信息收集
 
 - [ OneForAll ](https://github.com/shmilylty/OneForAll) - OneForAll是一款功能强大的子域收集工具
 
@@ -19,7 +28,7 @@
 
 - [ sub3suite ](https://github.com/3nock/sub3suite) - 跨平台的情报收集工具，子域名枚举、OSINT 信息收集和攻击面映射的研究级工具套件。
 
-#### 漏洞扫描器
+##### 漏洞扫描器
 
 - [ pocsuite3 ](https://github.com/knownsec/pocsuite3) - pocsuite3 是由 Knownsec 404 团队开发的开源远程漏洞测试框架。
 
@@ -29,8 +38,7 @@
 
 - [ myscan ](https://github.com/amcai/myscan) - 由python3开发而成的被动扫描工具。 
 
-
-#### 漏洞利用框架
+##### 漏洞利用框架
 
 - [ hackUtils ](https://github.com/brianwrf/hackUtils) - 它是一个用于渗透测试和网络安全研究的黑客工具包，渗透以及web攻击脚本。
 
@@ -54,7 +62,7 @@
 
 - [ XcodeGhost木马样本 ](https://github.com/XcodeGhostSource/XcodeGhost)
 
-#### CVE
+##### CVE
 
 - [ cve-search ](https://github.com/cve-search/cve-search) - CVE搜索工具，一种对已知漏洞执行本地搜索的工具。
 
@@ -64,7 +72,7 @@
 
 - [ CVE-2015-2426 ](https://github.com/vlad902/hacking-team-windows-kernel-lpe) - MS-078,EXP (windows内核提权)。
 
-#### 漏洞测试平台
+##### 漏洞测试平台
 
 - [ CryptSky ](https://github.com/deadPix3l/CryptSky) - 供测试排查的勒索软件。
 
@@ -86,7 +94,7 @@
 
 - [ vulstudy ](https://github.com/c0ny1/vulstudy) - docker镜像,一键部署sqli、DVWA、XSSed等17个靶场。
 
-#### 漏扫工具
+##### 漏扫工具
 
 - [ nuclei ](https://github.com/projectdiscovery/nuclei) - 基于简单 YAML 的 DSL 的快速且可定制的漏洞扫描器。
 
@@ -100,7 +108,7 @@
 
 - [ wafw00f ](https://github.com/EnableSecurity/wafw00f) - Waf类型检测识别工具。
 
-#### 远控
+##### 远控
 
 - [ gcat ](https://github.com/byt3bl33d3r/gcat) - 用gmail充当C&C服务器的后门。
 
@@ -150,8 +158,7 @@
 
 - [ J2EEScan ](https://github.com/ilmila/J2EEScan) - burpsuit插件，J2EE扫描插件，识别J2EE指纹和CVE漏洞检测。
 
-
-#### 数据库漏洞扫描器|SQL注入
+##### 数据库漏洞扫描器|SQL注入
 
 - [ sqlmap ](https://github.com/sqlmapproject/sqlmap) - 注入工具之王sqlmap。
 
@@ -165,7 +172,7 @@
 
 - [ jsql-injection ](https://github.com/ron190/jsql-injection) - Java 编写的SQL注入工具，Kali已集成。
 
-#### 子域名枚举/爆破工具
+##### 子域名枚举/爆破工具
 
 - [ N4xD0rk ](https://github.com/n4xh4ck5/N4xD0rk) - 使用名为 Hacking with search engine 的技术列出有关主域的子域。
 
@@ -179,7 +186,7 @@
 
 - [ GSDF ](https://github.com/We5ter/GSDF ) - 基于谷歌SSL透明证书的子域名查询脚本。
 
-#### 弱口令爆破工具
+##### 弱口令爆破工具
 
 - [ x-crack ](https://github.com/netxfly/x-crack) - x-crack - 弱密码扫描器，支持：FTP/SSH/SNMP/MSSQL/MYSQL/PostGreSQL/REDIS/ElasticSearch/MONGODB。
 
@@ -187,24 +194,23 @@
 
 - [ SuperWordlist ](https://github.com/fuzz-security/SuperWordlist) - 各种弱口令字典。
 
-#### 脚本
+##### 脚本
 
 - [ nishang ](https://github.com/samratashok/nishang) - Nishang - 用于红队、渗透测试和进攻性安全的进攻性 PowerShell，内网信息收集，横向，扫描、获取凭证等ps脚本。
 
-#### Webshell管理
+##### Webshell管理
 
 - [ Behinder ](https://github.com/rebeyond/Behinder) - “冰蝎”动态二进制加密网站管理客户端。
 
-#### 隧道
+##### 隧道
 
 - [ reGeorg ](https://github.com/sensepost/reGeorg) - HTTP隧道，socket代理。
 
-#### 代理
+##### 代理
 
 - [ nps ](https://github.com/ehang-io/nps) - 内网穿透代理服务器。
 
-
-#### 内网渗透或扫描工具
+##### 内网渗透或扫描工具
 
 - [ fscan ](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
 
@@ -220,7 +226,6 @@
 
 - [ mimikittenz ](https://github.com/putterpanda/mimikittenz) - Powershell的mimikittenz。
 
-
 #### fuzz工具收集
 
 - [ winafl ](https://github.com/ivanfratric/winafl) - 用于模糊 Windows 二进制文件的 AFL 分支，在目标二进制文件中找到新的执行路径。
@@ -233,7 +238,6 @@
 
 - [ LibFuzzer ](http://llvm.org/docs/LibFuzzer.html) - fuzz。
 
-  
 #### 二进制分析工具
 
 - [ binwalk ](https://github.com/devttys0/binwalk) - binwalk。
