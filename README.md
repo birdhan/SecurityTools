@@ -212,6 +212,15 @@
 
 - [ mimipenguin ](https://github.com/huntergregal/mimipenguin) - linux密码抓取神器。
 
+- [ mimikatz ](https://github.com/gentilkiwi/mimikatz) - 域渗透神器、票据传递。
+
+- [ PowerSploit ](https://github.com/PowerShellMafia/PowerSploit) - Powershell渗透库合集。
+
+- [ PowerShell ](https://github.com/clymb3r/PowerShell) - Powershell tools合集。
+
+- [ mimikittenz ](https://github.com/putterpanda/mimikittenz) - Powershell的mimikittenz。
+
+
 #### fuzz工具收集
 
 - [ winafl ](https://github.com/ivanfratric/winafl) - 用于模糊 Windows 二进制文件的 AFL 分支，在目标二进制文件中找到新的执行路径。
@@ -223,5 +232,16 @@
 - [ alphafuzzer ](http://blog.topsec.com.cn/ad_lab/alphafuzzer/) - 阿尔法实验室fuzz工具。
 
 - [ LibFuzzer ](http://llvm.org/docs/LibFuzzer.html) - fuzz。
+
+  
+#### 二进制分析工具
+
+- [ binwalk ](https://github.com/devttys0/binwalk) - binwalk。
+
+- [ angr ](https://github.com/angr/angr) - angr。
+
+
+
+  
 
 
