@@ -12,6 +12,10 @@
 这个收集是一个长期的过程，我在GitHub创建了这个项目，专门用来收集一些优秀的渗透测试项目。还有很多很好的免费开源项目可供选择，下面列出的还只是其中很少的一部分，我将**持续更新**这个项目，欢迎Star。
 
 
+##### 网络安全大模型
+
+- [ SecGPT ](https://github.com/Clouditera/secgpt) - SecGPT的愿景是将人工智能技术引入网络安全领域，以提高网络防御的效率和效果。其使命是推动网络安全智能化，为社会提供更安全的数字生活环境。
+
 ##### 自动化渗透测试
 
 - [ AttackSurfaceMapper ](https://github.com/superhedgy/AttackSurfaceMapper) - 自动化渗透测试工具,[使用手册/测试流程](https://www.uedbox.com/post/59110/)。 
