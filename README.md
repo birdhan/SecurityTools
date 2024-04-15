@@ -206,6 +206,8 @@
 
 - [ Behinder ](https://github.com/rebeyond/Behinder) - “冰蝎”动态二进制加密网站管理客户端。
 
+- [ Godzilla ](https://github.com/BeichenDream/Godzilla) - 静态免杀效果更好，插件更强的webshell管理工具。
+
 ##### 隧道
 
 - [ reGeorg ](https://github.com/sensepost/reGeorg) - HTTP隧道，socket代理。
