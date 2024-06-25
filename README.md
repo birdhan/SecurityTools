@@ -16,6 +16,8 @@
 
 - [ SecGPT ](https://github.com/Clouditera/secgpt) - SecGPT的愿景是将人工智能技术引入网络安全领域，以提高网络防御的效率和效果。其使命是推动网络安全智能化，为社会提供更安全的数字生活环境。
 
+- [ HackerGPT ](https://github.com/Hacker-GPT/HackerGPT-2.0) - 黑客ai不支持中文，线上地址：https://chat.hackerai.co/
+
 ##### 自动化渗透测试
 
 - [ AttackSurfaceMapper ](https://github.com/superhedgy/AttackSurfaceMapper) - 自动化渗透测试工具,[使用手册/测试流程](https://www.uedbox.com/post/59110/)。 
