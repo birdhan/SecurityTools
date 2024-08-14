@@ -26,6 +26,8 @@
 
 - [ Savior ](https://github.com/Mustard404/Savior) - 渗透测试报告自动生成工具！.
 
+- [ ShuiZe_0x727 ](https://github.com/0x727/ShuiZe_0x727) - 水泽，协助红队人员快速的信息收集，测绘目标资产，寻找薄弱点，并检测漏洞。
+
 ##### 信息收集
 
 - [ OneForAll ](https://github.com/shmilylty/OneForAll) - OneForAll是一款功能强大的子域收集工具
@@ -33,6 +35,8 @@
 - [ Ashok ](https://github.com/powerexploit/Ashok) - 侦查信息收集工具，又名瑞士军刀，OSINT领域中的瑞士军刀。
 
 - [ ARL ](https://github.com/TophantTechnology/ARL) - 灯塔系统，快速侦察与目标关联的互联网资产。
+
+- [ subfinder ](https://github.com/projectdiscovery/subfinder) - 被动子域名枚举，可使用被动在线资源返回网站的有效子域名。
 
 - [ sub3suite ](https://github.com/3nock/sub3suite) - 跨平台的情报收集工具，子域名枚举、OSINT 信息收集和攻击面映射的研究级工具套件。
 
