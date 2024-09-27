@@ -40,6 +40,8 @@
 
 - [ sub3suite ](https://github.com/3nock/sub3suite) - 跨平台的情报收集工具，子域名枚举、OSINT 信息收集和攻击面映射的研究级工具套件。
 
+- [ maltego ](https://www.maltego.com/) - 商业软件，有社区版，功能全面，自动化程度高。
+
 ##### 漏洞扫描器
 
 - [ pocsuite3 ](https://github.com/knownsec/pocsuite3) - pocsuite3 是由 Knownsec 404 团队开发的开源远程漏洞测试框架。
