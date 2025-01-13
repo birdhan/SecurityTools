@@ -224,9 +224,17 @@
 
 - [ reGeorg ](https://github.com/sensepost/reGeorg) - HTTP隧道，socket代理。
 
-##### 代理
+##### 内网穿透代理工具
 
-- [ nps ](https://github.com/ehang-io/nps) - 内网穿透代理服务器。
+- [ nps ](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发。
+
+- [ frp ](https://github.com/fatedier/frp) - 快速反向代理可帮助您将 NAT 或防火墙后面的本地服务器暴露给互联网。
+
+- [ ngrok ](https://github.com/inconshreveable/ngrok) - ngrok 是一个全球分布式反向代理。
+
+- [ ZeroTierOne ](https://github.com/zerotier/ZeroTierOne) - P2P,它允许所有联网设备、虚拟机、容器和应用程序进行通信，就像它们都位于同一个物理数据中心或云区域中一样。
+
+- [ tailscale ](https://github.com/tailscale/tailscale) - 轻松实现私有 WireGuard® 网络。
 
 ##### 内网渗透或扫描工具
 
