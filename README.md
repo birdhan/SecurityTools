@@ -42,7 +42,7 @@
 
 - [ maltego ](https://www.maltego.com/) - 商业软件，有社区版，功能全面，自动化程度高。
 
-##### 漏洞扫描器
+##### 漏扫工具
 
 - [ pocsuite3 ](https://github.com/knownsec/pocsuite3) - pocsuite3 是由 Knownsec 404 团队开发的开源远程漏洞测试框架。
 
@@ -50,7 +50,21 @@
 
 - [ w13scan ](https://github.com/w-digital-scanner/w13scan) - 它支持主动扫描模式和被动扫描模式。
 
-- [ myscan ](https://github.com/amcai/myscan) - 由python3开发而成的被动扫描工具。 
+- [ myscan ](https://github.com/amcai/myscan) - 由python3开发而成的被动扫描工具。
+
+- [ nacs ](https://github.com/u21h2/nacs) - 事件驱动的渗透测试扫描器 Event-driven pentest scanner。
+
+- [ nuclei ](https://github.com/projectdiscovery/nuclei) - 基于简单 YAML 的 DSL 的快速且可定制的漏洞扫描器。
+
+- [ nikto ](https://github.com/sullo/nikto) - Nikto 网络服务器扫描仪。
+
+- [ w3af ](https://github.com/andresriancho/w3af) - Web 应用程序攻击和审计框架，该扫描器能够识别200 多个漏洞，包括跨站点脚本、 SQL 注入和 操作系统命令。
+
+- [ vuls ](https://github.com/future-architect/vuls) - 适用于 Linux、FreeBSD、容器、WordPress、编程语言库、网络设备的无代理漏洞扫描程序，本地或远程（SSH）扫描。
+
+- [ HellRaiser ](https://github.com/m0nad/HellRaiser) - 漏洞扫描器使用 Nmap 扫描和关联发现的 CPE 与 CVE。
+
+- [ wafw00f ](https://github.com/EnableSecurity/wafw00f) - Waf类型检测识别工具。
 
 ##### 漏洞利用框架
 
@@ -108,19 +122,6 @@
 
 - [ vulstudy ](https://github.com/c0ny1/vulstudy) - docker镜像,一键部署sqli、DVWA、XSSed等17个靶场。
 
-##### 漏扫工具
-
-- [ nuclei ](https://github.com/projectdiscovery/nuclei) - 基于简单 YAML 的 DSL 的快速且可定制的漏洞扫描器。
-
-- [ nikto ](https://github.com/sullo/nikto) - Nikto 网络服务器扫描仪。
-
-- [ w3af ](https://github.com/andresriancho/w3af) - Web 应用程序攻击和审计框架，该扫描器能够识别200 多个漏洞，包括跨站点脚本、 SQL 注入和 操作系统命令。
-
-- [ vuls ](https://github.com/future-architect/vuls) - 适用于 Linux、FreeBSD、容器、WordPress、编程语言库、网络设备的无代理漏洞扫描程序，本地或远程（SSH）扫描。
-
-- [ HellRaiser ](https://github.com/m0nad/HellRaiser) - 漏洞扫描器使用 Nmap 扫描和关联发现的 CPE 与 CVE。
-
-- [ wafw00f ](https://github.com/EnableSecurity/wafw00f) - Waf类型检测识别工具。
 
 ##### 远控
 
@@ -271,7 +272,7 @@
 - [ angr ](https://github.com/angr/angr) - angr。
 
 
-
+#### 权限维持
   
-
+- [ sshdHooker ](https://github.com/9bie/sshdHooker) - 一键注入SSHD进程，记录并发送ssh登录的密码。
 
