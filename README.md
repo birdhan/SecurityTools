@@ -18,6 +18,10 @@
 
 - [ HackerGPT ](https://github.com/Hacker-GPT/HackerGPT-2.0) - 黑客ai不支持中文，线上地址：https://chat.hackerai.co/
 
+- [ JoySafety ](https://github.com/jd-opensource/JoySafety/blob/main/safety/safety-skills/model_overview.md) - 京东的AI安全项目，内容安全审核模型、提示词注入检测模型。
+
+- [ AI-Infra-Guard ](https://github.com/Tencent/AI-Infra-Guard) - AIG（AI-Infra-Guard）是由腾讯朱雀实验室开发的一款全面、智能、易用的AI红队演练平台。
+
 #### 自动化渗透测试
 
 - [ AttackSurfaceMapper ](https://github.com/superhedgy/AttackSurfaceMapper) - 自动化渗透测试工具,[使用手册/测试流程](https://www.uedbox.com/post/59110/)。 
@@ -39,6 +43,8 @@
 - [ subfinder ](https://github.com/projectdiscovery/subfinder) - 被动子域名枚举，可使用被动在线资源返回网站的有效子域名。
 
 - [ sub3suite ](https://github.com/3nock/sub3suite) - 跨平台的情报收集工具，子域名枚举、OSINT 信息收集和攻击面映射的研究级工具套件。
+
+- [ maltego ](https://www.maltego.com/) - 商业软件，有社区版，功能全面，自动化程度高。
 
 - [ maltego ](https://www.maltego.com/) - 商业软件，有社区版，功能全面，自动化程度高。
 
@@ -278,5 +284,6 @@
 #### 身份安全
 
 - [ ProxyPool ](https://github.com/shadow1ng/ProxyPool) - 动态IP代理池。
+
 
 
