@@ -16,6 +16,8 @@
 
 - [ SecGPT ](https://github.com/Clouditera/secgpt) - SecGPT的愿景是将人工智能技术引入网络安全领域，以提高网络防御的效率和效果。其使命是推动网络安全智能化，为社会提供更安全的数字生活环境。
 
+- [ Gemma ](https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK) - 越狱版Gemma-4-31B，公众号（https://mp.weixin.qq.com/s/IynVZ8sDVaZM0DQiQl22RA）
+
 - [ HackerGPT ](https://github.com/Hacker-GPT/HackerGPT-2.0) - 黑客ai不支持中文，线上地址：https://chat.hackerai.co/
 
 - [ JoySafety ](https://github.com/jd-opensource/JoySafety/blob/main/safety/safety-skills/model_overview.md) - 京东的AI安全项目，内容安全审核模型、提示词注入检测模型。
