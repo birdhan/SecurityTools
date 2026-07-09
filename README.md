@@ -32,6 +32,7 @@
 
 - [ Savior ](https://github.com/Mustard404/Savior) - 渗透测试报告自动生成工具！.
 
+- [ Darkmoon ](https://github.com/ASCIT31/Dark-Moon) - 开源（GPL-3.0）自主 AI 渗透测试平台与 MCP 宿主，按技术栈分工的攻击子代理（GraphQL/Spring/.NET/Node/PHP/Ruby/WordPress），覆盖 Active Directory 与 Kubernetes，编排 80+ 工具，每个漏洞附带证据链。
 - [ ShuiZe_0x727 ](https://github.com/0x727/ShuiZe_0x727) - 水泽，协助红队人员快速的信息收集，测绘目标资产，寻找薄弱点，并检测漏洞。
 
 #### 信息收集
